@@ -16,8 +16,8 @@
         "tiles": [
             "https://mapsneu.wien.gv.at/basemap/bmapgelaende/grau/google3857/{z}/{y}/{x}.jpeg"
         ],
-      "minzoom": 11,
-      "maxzoom": 16.9
+        "minzoom": 11,
+        "maxzoom": 16.9
     }
   },
   "layers": [
@@ -25,7 +25,8 @@
         "id": "Schummerung",
         "type": "raster",
         "source": "schummerung",
-        "raster-opacity": 0.3
+        "raster-opacity": 0.3,
+        "raster-resampling": "nearest"
     },
     {
       "id": "NUTZUNG/NUTZUNG_L0-8/Wald",
