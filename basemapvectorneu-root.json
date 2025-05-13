@@ -295,7 +295,8 @@
         "id": "Schummerung",
         "type": "raster",
         "source": "schummerung",
-        "raster-opacity": 0.5,
+        "raster-opacity": 0.5
+    },
     {
       "id": "GEWAESSER/GEWAESSER_L_GEWLUnterirdisch/> 10000_2",
       "type": "line",
