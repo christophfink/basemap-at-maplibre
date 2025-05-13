@@ -13,7 +13,9 @@
     },
     "schummerung": {
         "type": "raster",
-        "tiles": "https://mapsneu.wien.gv.at/basemap/bmapgelaende/grau/google3857/{z}/{y}/{x}.jpeg"
+        "tiles": [
+            "https://mapsneu.wien.gv.at/basemap/bmapgelaende/grau/google3857/{z}/{y}/{x}.jpeg"
+        ]
     }
   },
   "layers": [
