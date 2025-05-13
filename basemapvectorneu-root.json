@@ -20,6 +20,12 @@
   },
   "layers": [
     {
+        "id": "Schummerung",
+        "type": "raster",
+        "source": "schummerung",
+        "raster-opacity": 0.5
+    },
+    {
       "id": "NUTZUNG/NUTZUNG_L0-8/Wald",
       "type": "fill",
       "source": "esri",
@@ -292,12 +298,6 @@
       "minzoom": 16,
       "layout": {},
       "paint": { "fill-color": "rgba(191,191,86,0.25)" }
-    },
-    {
-        "id": "Schummerung",
-        "type": "raster",
-        "source": "schummerung",
-        "raster-opacity": 0.5
     },
     {
       "id": "GEWAESSER/GEWAESSER_L_GEWLUnterirdisch/> 10000_2",
