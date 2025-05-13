@@ -7,7 +7,7 @@
       "type": "vector",
       "bounds": [8.8587, 45.7823, 17.1608, 49.5752],
       "minzoom": 0,
-      "maxzoom": 19,
+      "maxzoom": 16.9,
       "scheme": "xyz",
       "url": "basemapv-bmapv-3857.json"
     },
@@ -16,8 +16,8 @@
         "tiles": [
             "https://mapsneu.wien.gv.at/basemap/bmapgelaende/grau/google3857/{z}/{y}/{x}.jpeg"
         ],
-      "minzoom": 11,
-      "maxzoom": 19
+      "minzoom": 9,
+      "maxzoom": 16.9
     }
   },
   "layers": [
