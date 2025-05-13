@@ -32,15 +32,6 @@
             bearing: 0,
             pitch: 15,
         });
-      
-        map.addSource(
-            "Schummerung",
-            {
-                "type": "raster",
-                "tiles": "https://mapsneu.wien.gv.at/basemap/bmapgelaende/grau/google3857/{z}/{y}/{x}.jpeg",
-                "tileSize": 256,
-            }
-        );
 
         map.addControl(
             new maplibregl.AttributionControl({
