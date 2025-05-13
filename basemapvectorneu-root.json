@@ -23,7 +23,7 @@
         "id": "Schummerung",
         "type": "raster",
         "source": "schummerung",
-        "raster-opacity": 0.5
+        "raster-opacity": 0.3
     },
     {
       "id": "NUTZUNG/NUTZUNG_L0-8/Wald",
