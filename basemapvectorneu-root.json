@@ -15,7 +15,9 @@
         "type": "raster",
         "tiles": [
             "https://mapsneu.wien.gv.at/basemap/bmapgelaende/grau/google3857/{z}/{y}/{x}.jpeg"
-        ]
+        ],
+      "minzoom": 11,
+      "maxzoom": 19
     }
   },
   "layers": [
